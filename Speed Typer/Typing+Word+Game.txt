@@ -1,0 +1,2 @@
+Type out words coming towards you before they reach you. 
+Have a text file for each difficult of word, easy, medium, hard. Pull from it as a list for difficult.
